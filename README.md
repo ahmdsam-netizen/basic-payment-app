@@ -2,12 +2,12 @@
 
 ## Backend -
 
-> Using express for routing 
-> Using mongoDB as Database
-> Using cors for allowing frontend to connect to backend 
-> Using zod for input check 
-> Using jsonwebtoken for creating and authenticating the users 
-> Using mongoose to connect and perform CRUD on NoSQL database 
+- _Using express for routing_
+- _Using mongoDB as Database_
+- _Using cors for allowing frontend to connect to backend_
+- _Using zod for input check_ 
+- _Using jsonwebtoken for creating and authenticating the users_ 
+- _Using mongoose to connect and perform CRUD on NoSQL database_ 
 
 ### Route -
 - signup (to sign up new user)
