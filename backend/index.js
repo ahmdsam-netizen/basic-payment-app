@@ -4,7 +4,7 @@ const mainRoute = require("./route/index") ;
 const app = express() ;
 
 app.use(cors())
-app.use(mainRoute , "/api/v1")
+app.use("/api/v1" , mainRoute)
 
 app.listen(3000 , () => {
     console.log("Started to run")
